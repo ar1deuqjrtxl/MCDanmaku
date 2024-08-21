@@ -1,0 +1,12 @@
+main: com.example.danmaku.App
+name: Danmaku
+version: 0.1
+api-version: 1.21
+
+commands:
+  makearena:
+    description: Creates a 50x100 arena with walls.
+  spawnnitori:
+    description: Spawns Nitori!
+  resetgamemode:
+    description: Resets gamemode!
